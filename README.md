@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Full Stack Web Developer <br>2+ years of experience <br>Specializing in MERN stack development. <br>Proven expertise in building scalable web applications, admin panels, and e-commerce solutions. Strong background in creating<br>responsive user interfaces, implementing secure backend systems, and optimizing website performance. <br>Skilled in SEO and digital marketing strategies to enhance online visibility and user engagement.<br>
+Results-driven Full Stack Web Developer <br>2+ years of experience <br>Specializing in MERN stack development. <br>- Proven expertise in building scalable web applications, admin panels, and e-commerce solutions. Strong background in creating<br>responsive user interfaces, implementing secure backend systems, and optimizing website performance. <br>Skilled in SEO and digital marketing strategies to enhance online visibility and user engagement.<br>
 
 
 ## 🌐 Socials:
