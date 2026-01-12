@@ -1,7 +1,26 @@
 # About Me:
 Results-driven Full Stack Web Developer <br>2+ years of experience <br>Specializing in MERN stack development. <br>- Proven expertise in building scalable web applications, admin panels, and e-commerce solutions. Strong background in creating<br>responsive user interfaces, implementing secure backend systems, and optimizing website performance. <br>- Skilled in SEO and digital marketing strategies to enhance online visibility and user engagement.<br>
 
+## Live Project Links:
 
+**Talk Live (MERN Chat App)**  
+  https://talk-live-mern-yy5p.vercel.app/
+
+- **SN DigiTech (MERN Website)**  
+  https://www.sndigitech.com/
+
+- **Nicki Macfarlane - E-commerce (MERN Project)**  
+  https://main.d1pt21imyin88y.amplifyapp.com/
+
+- **QuickCart (E-commerce App)**  
+  https://quickcartansh.netlify.app/
+
+- **CallMountain (MERN Auth App)**  
+  https://callmountain-mern-auth-client-1.onrender.com/
+
+- **InfoAtlas (React Information App)**  
+  https://infoatlas.onrender.com/
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_prob_v18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshu-maurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshu.maurya7300@gmail.com) 
 
